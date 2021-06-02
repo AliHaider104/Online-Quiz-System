@@ -1,7 +1,7 @@
 # Online-Quiz-System ✨
 An Android Application For Quiz Management
 
-# Framework 👀
+# Tools & Language 👀
 Android Studio / Java
 
 # Description 👋
